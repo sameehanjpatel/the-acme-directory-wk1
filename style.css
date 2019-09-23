@@ -1,0 +1,55 @@
+body{
+  font-family:sans-serif;
+  text-align:center;
+}
+
+.moe{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  width:100px;
+  height:100px;
+  border-radius:200px;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/1b/Moe_Howard_1937_%28cropped%29.jpg);
+  background-position: center;
+  background-size: cover;
+  position: center;
+}
+
+.larry{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  width:100px;
+  height:100px;
+  border-radius:200px;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e2/LFine1936_color.jpg);
+  filter: grayscale(100%);
+  background-position: center;
+  background-size: cover;
+  position: center;
+}
+
+.curly{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  width:100px;
+  height:100px;
+  border-radius:200px;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/ef/Curlydisorder.jpg);
+  background-position: center;
+  background-size: cover;
+  position: center;
+}
+
+.orange{
+  color: white;
+  background-color: orange;
+  padding: .2 rem;
+}
+
+
